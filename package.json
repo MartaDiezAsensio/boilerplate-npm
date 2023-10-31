@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "MartaDiezAsensio",
+	"description": "This is a description for the first project of Backend and API course of FreeCodecamp.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
